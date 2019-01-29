@@ -1,6 +1,7 @@
 *Please note! MyBinder supports both R and Python, Google Colab only supports Python3 notebooks.*
 
- - Launch in Jupyter Lab: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leidenuniv-lacdr-abs/intro-python-and-r.git/master)
+ - Launch in Jupyter Lab: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leidenuniv-lacdr-abs/intro-python-and-r.git/master?urlpath=lab)
+ - Launch in Jupyter Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leidenuniv-lacdr-abs/intro-python-and-r.git/master) 
  - Launch in RStudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leidenuniv-lacdr-abs/intro-python-and-r.git/master?urlpath=rstudio)
  - Launch in Google Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leidenuniv-lacdr-abs/intro-python-and-r/blob/master/Python/Basics.ipynb) 
 
